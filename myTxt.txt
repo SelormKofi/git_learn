@@ -3,4 +3,7 @@ Euler's identity is given by
 \[e^{i\pi}+1=0.\]
 
 For a smoothly contractible manifold $M$,
-\[H^k(M)=\begin{cases} \R \ \text{for } k=0, \\ 0 \ \text{for } k>0.\end{cases}\]
+\[H^k(M)=\begin{cases} \R \ \text{for } k=0, \\ 0 \ \text{for } k>0.\end{cases}\] 
+vim (vi) Okay did this! :-)
+And so did nano! :P
+
